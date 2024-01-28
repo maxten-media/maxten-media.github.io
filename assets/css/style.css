@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+html,
+body {
+  height: 100%;
+}
+html {
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+body {
+  background: #353a3e;
+  color: #f8f9fa;
+  font-family: 'Lato', sans-serif;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+.landing {
+  background: url(../images/MAXTEN-Dark.jpg) no-repeat center center;
+  background-size: contain;
+  height: 512px;
+  width: 512px;
+  text-indent: -99999px;
+  margin: auto;
+}
